@@ -1,0 +1,29 @@
+
+
+header{background-color:red; width:615px; height:150px;}
+
+table{font-family:sans-serif; font-weight:bold;border:3;}
+table:hover {font-weight: bold; color: purple;}
+thead{background-color:rgb(0,0,250); width: 150px; height: 150px;}
+tfoot{background-color:rgb(250,0,0); width: 150px; height: 150px;}
+
+#tc1{background-color:rgb(250,0,0); width: 150px; min-height: 150px;}
+#tc2{background-color:rgb(250,50,0); width: 150px; min-height: 150px;}
+#tc3{background-color:rgb(250,0,50); width: 150px; min-height: 150px;}
+#tc4{background-color:rgb(250,100,0); width: 150px; min-height: 150px;}
+#tc5{background-color:rgb(250,0,100); width: 150px; min-height: 150px;}
+#tc6{background-color:rgb(250,50,50); width: 150px; min-height: 150px;}
+#tc7{background-color:#006400; width: 150px; min-height: 150px;}
+#tc8{background-color:#008000; width: 150px; min-height: 150px;}
+#tc9{background-color:#556B2F; width: 150px; min-height: 150px;}
+#tc10{background-color:#7f7f11;width: 150px; min-height: 150px;}
+#tc11{background-color:blueviolet; width: 150px; min-height: 150px;}
+#tc12{background-color:blue; width: 150px; min-height: 150px;}
+#tc13{background-color:yellowgreen; width: 150px; min-height: 150px;}
+#tc14{background-color:greenyellow; width: 150px; min-height: 150px;}
+#tc15{background-color:teal; width: 150px; min-height: 150px;}
+#tc16{background-color:cyan;width: 150px; min-height: 150px;}
+
+footer{background-color:blue; width:615px; height:150px;}
+
+
